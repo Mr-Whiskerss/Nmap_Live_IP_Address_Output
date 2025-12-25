@@ -164,7 +164,7 @@ MIT License - Feel free to modify and distribute.
 
 ## Author
 
-[Your Name]
+MrWhiskers
 
 ## Contributing
 
